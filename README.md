@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm miasmist</h1>
-<h3 align="center">gaemdev? pretentious literature/film snob</h3>
+<h3 align="center">gamedev? pretentious literature/film snob</h3>
 
 - 🔭 I’m currently working in **c#**
 
 - 🌱 I’m currently learning **Unity**
 
-- 📫 How to reach me **g10rg4r0s@gmail.com**
+- 📫 Reach me at **g10rg4r0s@gmail.com**
 
 - ⚡ Fun fact **"I Am" is the shortest complete sentence in the English language.**
 
