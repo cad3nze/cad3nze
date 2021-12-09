@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ｃａｄ３ｎｚｅ <h1>
+<h1 align="center">Oi oi, I'm ｃａｄｅｎｚｏ <h1>
 <h3 align="center">terrible gamedev, pretentious literature/film snob, pink floyd enjoyer, and oxford comma enthusiast</h3>
 
 - 🔭 I’m currently working in **c#**
