@@ -10,7 +10,7 @@
 - ⚡ Fun fact **"I Am" is the shortest complete sentence in the English language.**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"> ...
+<p align="left"> try to not if you can ye thanks
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
